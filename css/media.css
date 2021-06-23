@@ -1,0 +1,191 @@
+@media (max-width: 1220px) {
+  .sneakers__photo {
+    margin-left: 200px;
+  }
+  .sneakers__text__h1 {
+    font-size: 45px;
+    margin-left: 20px;
+  }
+  .sneakers__text__p {
+    margin-left: 20px;
+  }
+  .selection {
+    max-width: 692px;
+    width: 100%;
+    padding: 30px;
+    left: 50px;
+  }
+  .feature__boxes {
+    margin: auto;
+    max-width: 900px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .feature {
+    margin-top: 100px;
+    max-width: 900px;
+    margin: auto;
+    padding-top: 140px;
+  }
+  .box__feature {
+    margin-right: 50px;
+    margin-top: 100px;
+  }
+  .puma__box__text {
+    padding: 60px 70px;
+    border-radius: 10px;
+  }
+}
+@media (max-width: 1120px) {
+  .sneakers__photo {
+    margin-left: 100px;
+  }
+  .testimonials__block {
+    display: block;
+    max-width: 700px;
+    width: 100%;
+    margin-left: 260px;
+  }
+  .puma__box__text {
+    padding: 50px 70;
+  }
+  .abram {
+    margin-top: 80px;
+  }
+}
+@media (max-width: 1020px) {
+  .sneakers {
+    display: block;
+  }
+  .sneakers__text {
+    margin: auto;
+  }
+  .sneakers__photo {
+    margin: auto;
+    margin-top: 50px;
+  }
+  .button__big {
+    display: block;
+    animation: none;
+    margin-left: 450px;
+    margin-top: 50px;
+  }
+  .selection {
+    animation: none;
+    top: 800px;
+    left: 140px;
+  }
+  .video {
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
+    display: block;
+    margin-top: 150px;
+  }
+  .video__text {
+    margin-bottom: 80px;
+  }
+  .testimonials__block {
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
+  }
+  .puma__box {
+    max-width: 600px;
+    width: 100%;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+  }
+  .puma__box__photo {
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
+  }
+  .footer__container {
+    max-width: 600px;
+    display: block;
+    text-align: center;
+    margin: auto;
+  }
+
+  .location {
+    margin: auto;
+  }
+  .services__support {
+    margin: 80px auto;
+  }
+  .contact__us {
+    margin: auto;
+  }
+}
+@media (max-width: 900px) {
+    .puma__nav{
+        display: none;
+    }
+    .burger{
+        display: flex;
+        flex-direction: column;
+    }
+    .header__button{
+        display: none;
+    }
+    .selection{
+        left: 20px;
+    }
+    .experience__gallary__h1{
+        text-align: center;
+    }
+  .experience__years__h1{
+      margin: 40px auto;
+    font-size: 24px;
+  }
+  .categories__text{
+      max-width: 400px;
+      margin: 0 auto 40px auto;
+  }
+  .categories__buttons{
+      margin: auto;
+  }
+  .price__sneakers{
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  .picture__price{
+      margin-bottom: 20px;
+  }
+  .categories{
+      max-width: 600px;
+      display: block;
+      margin: auto;
+      text-align: center;
+  }
+  .experience__years__h1{
+     text-align: center;
+  }
+}
+@media (max-width: 850px){
+.feature{
+    max-width: 800px;
+}
+.selection{
+    left: 0px;
+}
+}
+@media (max-width: 700px){
+    .selection{
+        max-width: 500px;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .brand{
+        max-width:50px;
+        width: 100%;
+       padding-bottom: 20px;
+        border: none;
+        margin: auto;
+        padding-left: 20px;
+    }
+}
